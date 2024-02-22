@@ -1,5 +1,6 @@
 body{
     background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 header {
@@ -8,6 +9,7 @@ header {
     text-shadow:rgb(8, 8, 40);
     font-size: 30px;
     color: #F5F8FF;
+    background-color: #F5F8FF;
 }
 h1{
   font-family: fantasy;
@@ -45,6 +47,7 @@ nav ul li a {
     height: fit-content;
     margin: 10px;
   }
+
   div article{
     float: left;
     width: 1000px;
@@ -63,6 +66,7 @@ nav ul li a {
     width: 380px;
     height: 225px;
   }
+
 
   footer{
     clear: both;
