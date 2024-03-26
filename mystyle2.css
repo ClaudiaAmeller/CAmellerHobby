@@ -3,7 +3,7 @@ body {
     background-color: rgb(234, 240, 249);
 }
 h1#chapter9{
-    color: blue;
+    color: rgb(8, 8, 40);
 }
 h1#chapter9:hover {
     background-color: blueviolet;
