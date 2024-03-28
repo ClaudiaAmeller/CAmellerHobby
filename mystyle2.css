@@ -67,3 +67,16 @@ h2 + p {
 h3 ~ p {
     color: hotpink;
 }
+
+/*Adding a flexbox*/ 
+.flex-container {
+    display: flex;
+    background-color: rgb(8, 8, 40);
+  }
+
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
